@@ -13,7 +13,7 @@
 
 ## 📊 Dashboard Preview
 
-![Instacart Market Basket Dashboard](instacart dashboard.pdf)
+![Instacart Market Basket Dashboard](https://drive.google.com/file/d/1N4D1HY2QLe_UpJYif9HNlXmcEJFTEqua/view?usp=sharing)
 
 ---
 
