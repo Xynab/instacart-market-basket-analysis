@@ -13,7 +13,7 @@
 
 ## 📊 Dashboard Preview
 
-![https://drive.google.com/file/d/1WcX2ssT20O8UU99tWSSL7AqibFLyl32c/view?usp=sharing]
+![https://drive.google.com/file/d/1WcX2ssT20O8UU99tWSSL7AqibFLyl32c/view?usp=drive_link]
 ---
 
 ## 🎯 Project Overview
